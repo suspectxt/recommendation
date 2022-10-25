@@ -2,4 +2,4 @@
 2.run the movie_summary_classifier.py file
 3.run flaskmain.py file
 4.go on ur browser search localhost:5000
-5.kudos u made ypurself a book/movie recommendation system
+5.kudos u made yourself a book/movie recommendation system
